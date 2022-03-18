@@ -6,7 +6,7 @@
 ![alt text](https://cogno.rocks/img/main.png)
 
 # Download
-> Cogno is in early access at the moment. It may contains some bugs and is not production ready. But I and some people in my company use it in production. 😉
+> Cogno is in early access at the moment. It may contains some bugs and is not production ready. But I and some of my colleagues use it in production. 😉
 
 [Windows-Installer](https://mistral-update.s3.eu-central-1.amazonaws.com/cogno-installer.exe "Latest stable version")
 
