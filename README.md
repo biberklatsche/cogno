@@ -1,6 +1,8 @@
 # Cogno
 > This will be the repo for the opensource part of cogno.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I3BO160)
+
 **A terminal with a smart autocompletion that will boost your productivity.**
 
 ![alt text](https://cogno.rocks/img/main.png)
