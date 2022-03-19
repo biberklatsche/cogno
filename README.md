@@ -55,4 +55,6 @@ I am a developer. For me the most powerful help is autocomplete. I want to have 
 * Talk about and show it to other people.
 * Do you have more ideas? Open a [feature request](https://github.com/biberklatsche/cogno/issues/new). 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I3BO160)
+
 Every support would be awesome! Thank you! 🙏
